@@ -1,0 +1,26 @@
+# Core data & ML
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+xgboost==3.2.0
+imbalanced-learn==0.12.3
+shap==0.49.1
+
+# Visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+kaleido==0.2.1          # Plotly static PNG export
+
+# App
+streamlit==1.35.0
+
+# Notebook
+ipykernel==6.29.4
+jupyter==1.0.0
+nbformat==5.10.4
+
+# Utilities
+joblib==1.4.2
+
+# macOS: brew install libomp  (required by xgboost on Apple Silicon / Intel Mac)

@@ -1,0 +1,42 @@
+# Data — never commit raw Kaggle data
+data/creditcard.csv
+data/*.csv
+
+# Models — only exclude files over GitHub's 100 MB hard limit
+# xgb_fraud_model.pkl (1.1 MB) and scaler.pkl (4 KB) are safe to commit
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs
+*.log
