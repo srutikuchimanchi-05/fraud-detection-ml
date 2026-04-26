@@ -42,6 +42,6 @@ Thumbs.db
 *.log
 
 # Claude Code
-CLAUDE.md
+PROJECT_NOTES.md
 .claude/
 **/.claude/
