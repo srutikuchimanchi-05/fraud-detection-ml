@@ -254,7 +254,7 @@ Both dashboards use `dashboards/fraud_results.csv` as their data source, with co
 ## Author
 
 **Sruti Kuchimanchi**
-[GitHub](https://github.com/srutikuchimanchi-05E) · [LinkedIn](https://www.linkedin.com/in/savita-sruti-kuchimanchi-00044a1b4/)
+[GitHub](https://github.com/srutikuchimanchi-05) · [LinkedIn](https://www.linkedin.com/in/savita-sruti-kuchimanchi-00044a1b4/)
 
 ---
 
